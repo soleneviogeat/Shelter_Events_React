@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+/*import styled from 'styled-components'
 import { StyledLink } from '../utils/Atoms'
 import '../styles/Contact.css'
 import '../styles/Home.css'
@@ -140,4 +140,4 @@ function Contact() {
     )
   }
   
-  export default Contact
+  export default Contact */

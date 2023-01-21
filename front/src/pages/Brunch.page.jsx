@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+/*import styled from 'styled-components'
 import { StyledButton, StyledLink } from '../utils/Atoms'
 import '../styles/Events.css'
 import '../styles/Home.css'
@@ -99,4 +99,4 @@ function Brunch() {
     )
   }
   
-  export default Brunch
+  export default Brunch */

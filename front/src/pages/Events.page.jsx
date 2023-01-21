@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+/*import styled from 'styled-components'
 import colors from '../utils/colors'
 import { StyledButton, StyledLink } from '../utils/Atoms'
 import '../styles/Events.css'
@@ -95,4 +95,4 @@ function Events() {
     )
   }
   
-  export default Events
+  export default Events */

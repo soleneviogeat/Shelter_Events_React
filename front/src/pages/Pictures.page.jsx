@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+/*import styled from 'styled-components'
 import { StyledLink } from '../utils/Atoms'
 import '../styles/Pictures.css'
 import '../styles/Home.css'
@@ -171,4 +171,4 @@ function Pictures() {
     )
   }
   
-  export default Pictures
+  export default Pictures */
