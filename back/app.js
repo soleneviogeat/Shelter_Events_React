@@ -17,7 +17,7 @@ mongoose.connect('mongodb+srv://Swizz26:McDGvh6y.f_XMzG@cluster-sitevitrine.vmwn
     console.log('Connexion à MongoDB réussie !'); 
     initial();
   })
-  .catch(() => console.log('Connexion à MongoDB échouée !'));
+  .catch((e) => console.log('Connexion à MongoDB échouée !', e));
 
 function initial() {
   Role.estimatedDocumentCount((err, count) => {
